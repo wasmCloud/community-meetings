@@ -7,6 +7,9 @@
 *   Phil Kedy
 *   Chris Marshall
 *   Ralph Squillace
+*   Matt Fisher
+*   Kevin Zhang
+
 
 **<span style="text-decoration:underline;">Goal</span>**
 
