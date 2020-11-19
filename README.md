@@ -1,1 +1,1 @@
-# community-metings
+# community-meetings
