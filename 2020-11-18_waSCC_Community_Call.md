@@ -1,6 +1,12 @@
 **<span style="text-decoration:underline;">waSCC Community Meeting - 2020-11-18</span>**
 
 **<span style="text-decoration:underline;">Attendees</span>**
+*   Kevin Hoffman
+*   Liam Randall
+*   Brooks Townsend
+*   Phil Kedy
+*   Chris Marshall
+*   Ralph Squillace
 
 **<span style="text-decoration:underline;">Goal</span>**
 
@@ -16,7 +22,7 @@ Enable developers to build their functions and services in webassembly and run t
 **<span style="text-decoration:underline;">Community News</span>**
 
 
-
+*   [Meeting Recording](https://www.youtube.com/watch?v=sxT9VlIBCto&feature=youtu.be
 *   [Wasmtime Meeting Notes](https://docs.google.com/document/d/1ZtxZNWbTNIhDdIXt27NQdwuc6D5O288l5HZKc_wC0FQ/edit)
     *    wasi-nn merge, precedence setting
     *   Meta RFC-RFCs
