@@ -50,8 +50,9 @@ Enable developers to build their functions and services in webassembly and run t
     *   New repository coming
     *   Target packages
 *   Brooks, OCI (Dec 7)
-    *   New OCI Registry coming
+    *   New OCI push functionality coming to [oci-distribution](https://github.com/deislabs/krustlet/pull/453)
 *   Brooks, wash cli, (Dec 7)
+    *   OCI push/pull functionality implemented under `wash reg`
 *   waPC Code Generator, Phil Kedy (Dec 7?)
     *   From a waSCC standpoint you don’t even need to know it exists
     *   WIDL is pretty simple / easy to articulate your interface & go from there
