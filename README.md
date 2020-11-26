@@ -4,7 +4,7 @@
 Community Meetings are held every Wednesday at 1:00 Eastern Time.
 
 ### Next Meeting
-* [waSCC Community Call December 2, 2020](community-meetings/2020-12-2-wascc-community-call.md)
+* [waSCC Community Call December 2, 2020](2020-12-2-wascc-community-call.md)
 
 
 ### Previous Calls:
