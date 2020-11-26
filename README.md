@@ -1,5 +1,4 @@
 
-**<span style="text-decoration:underline;">waSCC Community Meeting Notes</span>**
 # WebAssembly Secure Capability Connector community-meetings
 
 Community Meetings are held every Wednesday at 1:00 Eastern Time.
