@@ -13,11 +13,10 @@ Enable developers to build their functions and services in webassembly and run t
 *   New Members
 
 **<span style="text-decoration:underline;">Community News</span>**
-
--
+- 
 
 **<span style="text-decoration:underline;">Weekly Demonstration</span>**
-
+- wash REPL Demonstration, Brooks Townsend
 
 **<span style="text-decoration:underline;">waSCC Current</span>**
 
