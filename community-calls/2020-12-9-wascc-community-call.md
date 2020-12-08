@@ -1,4 +1,4 @@
-**<span style="text-decoration:underline;">waSCC Community Meeting - 2020-12-9</span>**
+**<span style="text-decoration:underline;">wasmCloud Community Meeting - 2020-12-9</span>**
 
 **<span style="text-decoration:underline;">Attendees</span>**
 
