@@ -4,10 +4,13 @@
 Community Meetings are held every Wednesday at 1:00 Eastern Time.
 
 ### Next Meeting
-* [waSCC Community Call December 9, 2020](community-calls/2020-12-9-wascc-community-call.md)
+* [wasmCloud Community Call December 16, 2020](community-calls/2020-12-16-wasmcloud-community-call.md)
 
 
 ### Previous Calls:
+* [wasmCloud Community Call December 9, 2020](community-calls/2020-12-9-wasmcloud-community-call.md)
+     * [wasmCloud 2020-12-9 Meeting Recording](https://www.youtube.com/watch?v=MW-6cJJ8ZyQ)
+
 * [waSCC Community Call December 2, 2020](community-calls/2020-12-2-wascc-community-call.md)
      * [waSCC 2020-12-2 Meeting Recording](https://youtu.be/532ZkcHop6M)
 
