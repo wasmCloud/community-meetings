@@ -4,7 +4,7 @@
 
 **<span style="text-decoration:underline;">Goal</span>**
 
-Enable developers to build their functions and services in webassembly and run them everywhere.
+[WasmCloud](https://wasmcloud.com): Enable developers to build their functions and services in webassembly and run them everywhere.
 
 **<span style="text-decoration:underline;">Introductions</span>**
 
