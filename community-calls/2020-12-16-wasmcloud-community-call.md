@@ -4,12 +4,13 @@
 
 **<span style="text-decoration:underline;">Goal</span>**
 
-[WasmCloud](https://wasmcloud.com): Enable developers to build their functions and services in webassembly and run them everywhere.
+wasmCloud: Enable developers to build their functions and services in webassembly and run them everywhere.
 
 **<span style="text-decoration:underline;">Introductions</span>**
 
 
 
+*   Andrew Brown
 *   
 
 **<span style="text-decoration:underline;">Demo</span>**
@@ -25,10 +26,13 @@
 
 
 
-*   wasmTime community meeting is Thursday 12/10 at 1:00
+*   wasmTime community meeting is Thursday 12/24 at 1:00
     *   [Meeting Agenda](https://docs.google.com/document/d/1ZtxZNWbTNIhDdIXt27NQdwuc6D5O288l5HZKc_wC0FQ/edit#)
-    *   [bytecodealliance/rfcs](https://github.com/bytecodealliance/rfcs/pulls)
+    *   Maybe cancelled - xmas eve
 *   Deis Labs
+*   Wasi-nn blog post
+    *   [https://bytecodealliance.org/articles/using-wasi-nn-in-wasmtime](https://bytecodealliance.org/articles/using-wasi-nn-in-wasmtime)
+    *   Ref: [https://radu-matei.com/blog/tensorflow-inferencing-wasi/](https://radu-matei.com/blog/tensorflow-inferencing-wasi/)
 
 **<span style="text-decoration:underline;">waSCC Current</span>**
 
@@ -39,6 +43,7 @@
 *   Brooks / Radu follow up on 
     *   [https://github.com/deislabs/krustlet/pull/453](https://github.com/deislabs/krustlet/pull/453)
 *   Jarrod - turbulence & work
+    *   Outline tickets
 
 Blogpost list for community folks, Ralph, 
 
@@ -48,23 +53,29 @@ Blogpost list for community folks, Ralph,
 *   List of potential blogposts:
     *   [https://hackmd.io/@y7qXqYh2SdqS3oy5XujVDA/B1Q1qISjw](https://hackmd.io/@y7qXqYh2SdqS3oy5XujVDA/B1Q1qISjw)
 
-.15 Review
+.15 open tickets
 
 
 
-*   Kevin
-    *   
+*   Remaining To do on .15
+    *   [Actor-interfaces](https://github.com/wasmCloud/actor-interfaces/issues)
+        *   4 Rust
+        *   7 Go
+        *   7 Assembly Script
+    *   Wash up / REPL
+    *   Packaging
+        *   Home Brew
+    *   Automation for builds on wasmCloud repo
+        *   Don’t have automated testing on repo
+        *   Need the action step
+    *   wasmCloud.com website
+    *   Azure Registry
         *   
 *   Chris
 *   Brooks
 *   Bill
 *   Phil
-*   waPC pull request
-    *   Radu
-    *   Everyone is doing calling
-*   What about the wasmcloud
-*   ADL for register usage
-*   Demo Script for the new wasmCloud Experience:
+*   Demo Script Updates for the new wasmCloud Experience:
     *   [https://docs.google.com/document/d/11QWnLiep4B3F2KOr7kYBNumgYqFVdXf6Jur_7tLTM04/edit?usp=sharing](https://docs.google.com/document/d/11QWnLiep4B3F2KOr7kYBNumgYqFVdXf6Jur_7tLTM04/edit?usp=sharing)
 
 **<span style="text-decoration:underline;">Open PRs / Issue Review</span>**
@@ -81,6 +92,13 @@ Blogpost list for community folks, Ralph,
 
 
 
+*   Demo: wasi-nn Demo, Andrew Brown
+*   Demo: WIDL, Phil Kedy
+*   Demo: waPC, Phil Kedy
+*   Demo: Code gen + API easier to use
+    *   [https://github.com/wasmcloud/actor-interfaces](https://github.com/wasmcloud/actor-interfaces)
+    *   Need Go & Assembly Script
+    *   
 *   Docs Rewrite
 *   wasmCloud
 *   Krustlet larger update
