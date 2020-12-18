@@ -1,13 +1,18 @@
 
-# WebAssembly Secure Capability Connector community-meetings
+# wasmCloud Community Meetings
 
 Community Meetings are held every Wednesday at 1:00 Eastern Time.
 
-### Next Meeting
-* [wasmCloud Community Call December 16, 2020](community-calls/2020-12-16-wasmcloud-community-call.md)
 
+
+### Next Meeting
+* [wasmCloud Community Call January 6, 2021](community-calls/2021-1-6-wasmcloud-community-call.md)
 
 ### Previous Calls:
+* [wasmCloud Community Call December 16, 2020](community-calls/2020-12-16-wasmcloud-community-call.md)
+     * [wasmCloud 2020-12-16 Meeting Recording](https://www.youtube.com/watch?v=32Aka25wcwY&feature=emb_logo)
+     * @matei_radu demonstrates an experimental #Wasm Berkeley Sockets API, @mingqiusun & Andrew Brown discuss the new WASI-NN design for WASI, and more! Socket Demo in the link above.
+
 * [wasmCloud Community Call December 9, 2020](community-calls/2020-12-9-wasmcloud-community-call.md)
      * [wasmCloud 2020-12-9 Meeting Recording](https://www.youtube.com/watch?v=MW-6cJJ8ZyQ)
 
