@@ -9,6 +9,10 @@ Community Meetings are held every Wednesday at 1:00 Eastern Time.
 * [wasmCloud Community Call January 6, 2021](community-calls/2021-1-6-wasmcloud-community-call.md)
 
 ### Previous Calls:
+* [wasmCloud Community Call December 23, 2020](community-calls/2020-12-23-wasmcloud-community-call.md)
+     * [Dev Branch Setup on Netlify](https://5fe4c7fb261de900071c3e2e--brave-albattani-5b0c07.netlify.app/) and tied to *dev* branch
+     * [wasmCloud.com Issues Decomposed](https://github.com/wasmCloud/wasmCloud.com/issues) roughly mapped to milestones 
+
 * [wasmCloud Community Call December 16, 2020](community-calls/2020-12-16-wasmcloud-community-call.md)
      * [wasmCloud 2020-12-16 Meeting Recording](https://www.youtube.com/watch?v=32Aka25wcwY&feature=emb_logo)
           * @matei_radu demonstrates an experimental #Wasm Berkeley Sockets API (Socket Demo in the link above)
