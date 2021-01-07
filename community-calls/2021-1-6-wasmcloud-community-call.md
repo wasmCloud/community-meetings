@@ -22,8 +22,9 @@ Enable developers to build their functions and services in webassembly and run t
 
 
 *    2020-1-13 Phil Kedy
-    *   Demo: WIDL
-    *   Demo: waPC
+  *   Demo: WIDL
+  *   Demo: waPC
+    
 *   Today: wasi-nn
     *   Work out of intel driving portability of models
     *   Enable access to dedicated hardware
@@ -61,11 +62,9 @@ Enable developers to build their functions and services in webassembly and run t
     *   Feedback and engagement
         *   Will respond to issues in wasi-nn or wasmtime
         *   If you want to discuss, he’s on zulip all the time
-        *    \
 
 
 **<span style="text-decoration:underline;">Community News</span>**
-
 
 
 *   wasmTime community meeting is Thursday 1/7/2020 at 1:00
@@ -174,8 +173,6 @@ What / Who / When
 
 
 
-*   
-
 **<span style="text-decoration:underline;">Post Call Feedback</span>**
 
 Discusion
@@ -183,7 +180,7 @@ Discusion
 
 
 *   Why did wasmCloud use wasm3 by default?
-    *   Why jit vs. 
+    *   Why jit vs. interpret
 *   We should call to action and test with wasmTime and not just default wasm3
 *   Should we have an experimental branch
     *   To see how they work together
