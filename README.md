@@ -14,7 +14,7 @@ Community Meetings are held every Wednesday at 1:00 Eastern Time.
 
 * [wasmCloud Community Call January 6, 2021](community-calls/2021-1-6-wasmcloud-community-call.md)
      * [wasmCloud 2021-1-6 Meeting Recording](https://www.youtube.com/watch?v=TqWh7u2Klig)
-          * @mingqiusun & Andrew Brown [demonstrate wasi-nn](https://www.youtube.com/watch?v=TqWh7u2Klig?t=268)
+          * @mingqiusun & Andrew Brown [demonstrate wasi-nn](https://youtu.be/TqWh7u2Klig?t=284)
           * arm64 building challenges on x86
           * .15 Release Finalization
 
