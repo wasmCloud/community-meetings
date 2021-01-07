@@ -6,9 +6,18 @@ Community Meetings are held every Wednesday at 1:00 Eastern Time.
 
 
 ### Next Meeting
-* [wasmCloud Community Call January 6, 2021](community-calls/2021-1-6-wasmcloud-community-call.md)
+* wasmCloud Community Call January 13, 2021
+     * Demonstration: waPC & WIDL
+
 
 ### Previous Calls:
+
+* [wasmCloud Community Call January 6, 2021](community-calls/2021-1-6-wasmcloud-community-call.md)
+     * [wasmCloud 2021-1-6 Meeting Recording](https://www.youtube.com/watch?v=TqWh7u2Klig)
+          * @mingqiusun & Andrew Brown [demonstrate wasi-nn](https://www.youtube.com/watch?v=TqWh7u2Klig?t=268)
+          * arm64 building challenges on x86
+          * .15 Release Finalization
+
 * [wasmCloud Community Call December 23, 2020](community-calls/2020-12-23-wasmcloud-community-call.md)
      * [Dev Branch Setup on Netlify](https://5fe4c7fb261de900071c3e2e--brave-albattani-5b0c07.netlify.app/) and tied to *dev* branch
      * [wasmCloud.com Issues Decomposed](https://github.com/wasmCloud/wasmCloud.com/issues) roughly mapped to milestones 
