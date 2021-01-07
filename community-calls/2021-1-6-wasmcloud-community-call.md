@@ -31,7 +31,7 @@ Enable developers to build their functions and services in webassembly and run t
         *   Currently enables OpenVINO
         *   Wasmtime implements wasi-nn
 
-![alt_text](images/2021-1-6-wwasi-nn.png "wasi-nn background")
+![alt_text](images/2021-1-6-wasi-nn.png "wasi-nn background")
 
     *   In wasmtime example
         *   Has enabled alexnet example to run open vino
