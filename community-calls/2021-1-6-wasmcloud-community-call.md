@@ -33,11 +33,12 @@ Enable developers to build their functions and services in webassembly and run t
 
 ![alt_text](images/2021-1-6-wasi-nn.png "wasi-nn background")
 
-    *   In wasmtime example
+ 
+ *   In wasmtime example
         *   Has enabled alexnet example to run open vino
         *   Compiles example file into wasm
         *   Requires use of feature `"flag --features wasi-nn"`
-    *   Demo
+  *   Demo
         *   Loading is slow atm, stuff to sort out in wasi
         *   Finds the pizza
     *   For more information:
