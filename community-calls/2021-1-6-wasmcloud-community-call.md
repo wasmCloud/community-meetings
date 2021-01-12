@@ -1,4 +1,4 @@
-**<span style="text-decoration:underline;">DRAFT wasmCloud Community Meeting - 2021-1-6</span>**
+**<span style="text-decoration:underline;">wasmCloud Community Meeting - 2021-1-6</span>**
 
 **<span style="text-decoration:underline;">Attendees</span>**
 

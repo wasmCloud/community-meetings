@@ -2,11 +2,11 @@
 # wasmCloud Community Meetings
 
 Community Meetings are held every Wednesday at 1:00 Eastern Time.
-
+Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hectaman](https://twitter.com/hectaman) on twitter.
 
 
 ### Next Meeting
-* wasmCloud Community Call January 13, 2021
+* [wasmCloud Community Call January 13, 2021](community-calls/2021-1-13-wasmcloud-community-call.md)
      * Demonstration: waPC & WIDL
 
 
