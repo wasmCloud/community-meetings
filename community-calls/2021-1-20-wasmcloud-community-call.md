@@ -1,23 +1,7 @@
-**<span style="text-decoration:underline;">wasmCloud Community Meeting - 2021-1-13</span>**
+**<span style="text-decoration:underline;">wasmCloud Community Meeting - 2021-1-20</span>**
 
 **<span style="text-decoration:underline;">Attendees</span>**
 
-
-
-*   Liam Randall
-*   Kevin Hoffman
-*   Ralph Squillace
-*   Daz
-*   Phil Kedy
-*   Brooks Townsend
-*   Radu
-*   Matt Butcher
-*   Gustav
-*   Jordan Rash
-*   Jefferey Cooke
-*   Taylor
-*   Bill 
-*   Kit Ewbank
 
 **<span style="text-decoration:underline;">Goal</span>**
 
