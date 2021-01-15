@@ -7,7 +7,7 @@ Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hec
 
 ### Next Meeting
 * [wasmCloud Community Call January 13, 2021](community-calls/2021-1-13-wasmcloud-community-call.md)
-     * Demonstration: waPC & WIDL
+     * Demonstration: [Phil Kedy](https://github.com/pkedy) demonstrates the new scaffold generator waPC Cli 
 
 
 ### Previous Calls:
