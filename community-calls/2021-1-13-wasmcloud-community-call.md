@@ -111,7 +111,7 @@ Enable developers to build their functions and services in WebAssembly and run t
     *   Need to move the provider over to repo
     *   Then cut it over 
     *   Lot’s in flight - kube, tokyo, etc
-*   
+*   wasmCloud v0.15 burn down: [wasmCloud Issues](https://github.com/orgs/wasmCloud/projects/2)
 
 Review - .15 open tickets
 
