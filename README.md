@@ -6,7 +6,7 @@ Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hec
 
 
 ### Next Meeting
-* [wasmCloud Community Call January 20, 2021](community-calls/2021-1-27-wasmcloud-community-call.md)
+* [wasmCloud Community Call January 27, 2021](community-calls/2021-1-27-wasmcloud-community-call.md)
      * Demonstration: Krustlet, new release
 
 
