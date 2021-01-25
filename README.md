@@ -6,11 +6,16 @@ Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hec
 
 
 ### Next Meeting
-* [wasmCloud Community Call January 20, 2021](community-calls/2021-1-20-wasmcloud-community-call.md)
-     * Demonstration: TBD
+* [wasmCloud Community Call January 20, 2021](community-calls/2021-1-27-wasmcloud-community-call.md)
+     * Demonstration: Krustlet, new release
 
 
 ### Previous Calls:
+
+* [wasmCloud Community Call January 20, 2021](community-calls/2021-1-20-wasmcloud-community-call.md)
+     * [wasmCloud 2021-1-20 Meeting Recording](https://youtu.be/XB3LJzX8j6Y)
+     * Demonstration Link: [Kevin Hoffman](https://twitter.com/KevinHoffman) demonstrates the new [wasmCloud Docs](https://youtu.be/XB3LJzX8j6Y?t=30) 
+     * Community Metrics: [Liam Randall]() talks about [analyzing our growing community](https://youtu.be/XB3LJzX8j6Y?t=420) with [orbit.love](https://orbit.love)
 
 * [wasmCloud Community Call January 13, 2021](community-calls/2021-1-13-wasmcloud-community-call.md)
      * [wasmCloud 2021-1-13 Meeting Recording](https://www.youtube.com/watch?v=onr01cQ9xNU)

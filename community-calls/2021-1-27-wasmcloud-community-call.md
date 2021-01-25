@@ -2,14 +2,7 @@
 
 **<span style="text-decoration:underline;">Attendees</span>**
 
-*   Liam Randall
-*   Kevin Hoffman
-*   Bill Young
-*   Daz
-*   Ralph
-*   Brooks
-*   Jarrod
-*   Jordan
+*  
 
 **<span style="text-decoration:underline;">Goal</span>**
 
