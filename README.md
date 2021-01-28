@@ -6,11 +6,17 @@ Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hec
 
 
 ### Next Meeting
-* [wasmCloud Community Call January 20, 2021](community-calls/2021-1-27-wasmcloud-community-call.md)
-     * Demonstration: Krustlet, new release
+* [wasmCloud Community Call Febuary 3, 2021 1:00 EST](community-calls/2021-2-3-wasmcloud-community-call.md)
+     * Demonstration: Microsoft Bindle
 
 
 ### Previous Calls:
+
+* [wasmCloud Community Call January 20, 2021](community-calls/2021-1-27-wasmcloud-community-call.md)
+     * [Brooks Townsend](https://twitter.com/brooksmtownsend?lang=en) Demonstration- [Seamless Polyglot Actors](https://youtu.be/7Jbkvmghb_8?t=54)
+     * [Kevin Flansburg](https://twitter.com/kevin_flansburg?lang=en) Demonstration- [KRATOR: Kubernetes Rust](https://youtu.be/7Jbkvmghb_8?t=1638)
+KRATOR: #K8s Rust stATe machine operatOR! Check out his demonstration here: 
+
 
 * [wasmCloud Community Call January 20, 2021](community-calls/2021-1-20-wasmcloud-community-call.md)
      * [wasmCloud 2021-1-20 Meeting Recording](https://youtu.be/XB3LJzX8j6Y)
