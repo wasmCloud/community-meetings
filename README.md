@@ -6,9 +6,9 @@ Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hec
 
 
 ### Next Meeting
+
 * [wasmCloud Community Call Febuary 3, 2021 1:00 EST](community-calls/2021-2-3-wasmcloud-community-call.md)
      * Demonstration: Microsoft Bindle
-
 
 ### Previous Calls:
 
