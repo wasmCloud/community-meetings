@@ -3,12 +3,21 @@
 **<span style="text-decoration:underline;">Attendees</span>**
 
 
+*   Liam Randall
+*   Kevin Hoffman
+*   Brooks Townsend
+*   Chris Marshall
+*   Bill Young
+*   Matt Butcher
+*   Matt Fischer
+*   Taylor Thomas
+*   Jared Overson
+*   Radu Matei
+*   Jordan Rash
 
-*   
+##Goal
 
-**<span style="text-decoration:underline;">Goal</span>**
-
-Enable developers to build their functions and services in WebAssembly and run them everywhere.
+wasmCloud is a platform for writing portable business logic that can run anywhere from the edge to the cloud, that boasts a secure-by-default, boilerplate-free developer experience with rapid feedback loop.
 
 **<span style="text-decoration:underline;">Introductions</span>**
 
@@ -20,16 +29,23 @@ Enable developers to build their functions and services in WebAssembly and run t
 
 
 
+*   <span style="text-decoration:underline;">Kevin Hoffman, new docs: [https://wasmCloud.dev](https://wasmCloud.dev)</span>
+*   Liam Randall, arch images: [https://jamboard.google.com/d/1ZBzr5y5OoG-4i-PfhdevbANEzmDgiabOtuEXGWeD1Xs/edit?usp=sharing](https://jamboard.google.com/d/1ZBzr5y5OoG-4i-PfhdevbANEzmDgiabOtuEXGWeD1Xs/edit?usp=sharing)
 *   
 
 **<span style="text-decoration:underline;">Community Activity</span>**
 
 
 
-*   CFP: [https://events.linuxfoundation.org/cloud-native-wasm-day/](https://events.linuxfoundation.org/cloud-native-wasm-day/)
+*   May 4, 2021 Cloud Native WASM CFP: [https://events.linuxfoundation.org/cloud-native-wasm-day/](https://events.linuxfoundation.org/cloud-native-wasm-day/)
 *   [https://webassembly-summit.org/](https://webassembly-summit.org/)
-*   wasmTime (Thursday’s 1:00
-*   Run time working group
+*   April 22, 2021: https://webassembly-summit.org/
+*   Kevin has an upcoming wasm talk in the UK
+*   wasmTime bi-weekly meeting (Thursday’s 1:00
+    *   [https://docs.google.com/document/d/1ZtxZNWbTNIhDdIXt27NQdwuc6D5O288l5HZKc_wC0FQ/edit#](https://docs.google.com/document/d/1ZtxZNWbTNIhDdIXt27NQdwuc6D5O288l5HZKc_wC0FQ/edit#)
+*   Early Bird Kubecon & wasmDay registration through 2/14 only $10
+    *   https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/?utm_medium=email&_hsmi=109206644&_hsenc=p2ANqtz--i98lSj6l2kVU2BycNVfEJELqtwUp7kK0JBe2qqSp_2c7Y1dPc4xjRiL1GvTH9IU4a0F5snsR8_U91LEq9qhoiV9bLfA&utm_content=109206644&utm_source=hs_email
+*   Open Call for additional items?
 
 **<span style="text-decoration:underline;">wasmCloud Deployment Options</span>**
 
@@ -46,21 +62,10 @@ Enable developers to build their functions and services in WebAssembly and run t
 *   Custom \
 
 
-**<span style="text-decoration:underline;">Community News</span>**
-
-
-
-*   wasmTime community meeting is postponed this week, Thursday 1/21/2020 at 1:00
-    *   [Meeting Agenda](https://docs.google.com/document/d/1ZtxZNWbTNIhDdIXt27NQdwuc6D5O288l5HZKc_wC0FQ/edit#)
-*   https://events.linuxfoundation.org/cloud-native-wasm-day/
-
 **<span style="text-decoration:underline;">wasmCloud Current</span>**
 
 
 
-*   Reminder: Azure Registry Complete
-    *   enable public anonymous pull (downloads) on azure container register.
-    *   [Wasmcloud.azurecr.io](http://wasmcloud.azurecr.io/) configured for public
 *   wasmCloud site update progress
 *   [Actor-interfaces](https://github.com/wasmCloud/actor-interfaces/issues)
 *   [Wash REPL](https://github.com/wasmCloud/wash/issues)

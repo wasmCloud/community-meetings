@@ -7,10 +7,18 @@ Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hec
 
 ### Next Meeting
 
-* [wasmCloud Community Call Febuary 3, 2021 1:00 EST](community-calls/2021-2-3-wasmcloud-community-call.md)
-     * Demonstration: Microsoft Bindle
+* wasmCloud Community Call Febuary 10, 2021 1:00 EST
+     * .15 Release!
+
 
 ### Previous Calls:
+
+* [wasmCloud Community Call Febuary 3, 2021 1:00 EST](community-calls/2021-2-3-wasmcloud-community-call.md)
+     * [Demonstration video](https://youtu.be/cfGMTNOTwaY?t=66) for new docs site for [wasmCloud.dev](https://wasmCloud.dev)
+     * [Demonstration video](https://youtu.be/cfGMTNOTwaY?t=202) for new landing pages for [wasmCloud.com](https://wasmCloud.com)
+     * [Sketches of graphics for site](https://youtu.be/cfGMTNOTwaY?t=273)
+     
+
 
 * [wasmCloud Community Call January 20, 2021](community-calls/2021-1-27-wasmcloud-community-call.md)
      * [Brooks Townsend](https://twitter.com/brooksmtownsend?lang=en) Demonstration- [Seamless Polyglot Actors](https://youtu.be/7Jbkvmghb_8?t=54)
