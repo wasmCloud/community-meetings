@@ -7,11 +7,15 @@ Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hec
 
 ### Next Meeting
 
-* wasmCloud Community Call Febuary 10, 2021 1:00 EST
+* wasmCloud Community Call Febuary 17, 2021 1:00 EST
      * .15 Release!
+     * New Logos & Branding!
 
 
 ### Previous Calls:
+
+* [wasmCloud Community Call Febuary 10, 2021 1:00 EST](community-calls/2021-2-10-wasmcloud-community-call.md)
+     * New CI / CD Infastructure for wasmCloud [Demonstration](https://youtu.be/zHwH-uBjD1Y?t=46) for new docs site for [github/wasmCloud](https://github.com/wasmCloud
 
 * [wasmCloud Community Call Febuary 3, 2021 1:00 EST](community-calls/2021-2-3-wasmcloud-community-call.md)
      * [Demonstration video](https://youtu.be/cfGMTNOTwaY?t=66) for new docs site for [wasmCloud.dev](https://wasmCloud.dev)
