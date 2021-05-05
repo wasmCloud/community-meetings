@@ -13,7 +13,7 @@ Meeting Times:
 
 ### Next Meeting
 
-* wasmCloud Community Call Febuary 24, 2021 1:00 EST
+* wasmCloud Community Call Wed May 5, 2021 1:00 EST
      * wasmcloud Demo walkthroughs
      * New landing page, tag lines
 
