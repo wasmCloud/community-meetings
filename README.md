@@ -7,12 +7,14 @@ Please reach out to Liam Randall (first.last) on gmail for an invite or DM [@hec
 
 ### Next Meeting
 
-* wasmCloud Community Call Febuary 24, 2021 1:00 EST
-     * wasmcloud Demo walkthroughs
-     * New landing page, tag lines
+* wasmCloud Community Call June 23, 2021 1:00 EST
+     * wasmcloud OTP Demonstration
 
 
 ### Previous Calls:
+
+* wasmCloud Community Call June 16, 2021 1:00 EST [Call Notes](community-calls/2021-6-16-wasmcloud-community-call.md)
+
 
 * wasmCloud Community Call Febuary 17, 2021 1:00 EST [Call Notes](community-calls/2021-2-10-wasmcloud-community-call.md)
      * Video: NEW! [wasmCloud Branding](https://youtu.be/rGndDZquKvg?t=134) with Liam Randall
